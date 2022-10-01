@@ -24,9 +24,8 @@ section {
     width: 80%
 }
 
-.linked {
+button {
     text-decoration: none;
-    background-image: linear-gradient (orange, tomato);
     color: orangered;
     font-weight: 700;
     padding: 10px 40px;
